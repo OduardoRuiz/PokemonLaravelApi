@@ -1,0 +1,59 @@
+.logo{
+    width: 50px;
+    margin-left: 2rem;
+}
+.menuAdm{
+    color: #f8f1f1;
+    background-color: #3466AF;
+    
+}
+.menuAdm a:hover{
+    color: rgb(248, 174, 174);
+}
+body {
+    background-color: #E4F2FB;
+}
+.botaoCriar {
+    background-color: #3466AF;
+    color: #fafafa; 
+}
+.botaoCriar a:hover{
+    color:rgb(248, 174, 174);
+}
+
+.botaoIndex{
+    width: 7rem;
+}
+
+.formCriarProd{
+    background-color: #f4f8ff;
+    border-radius: 10px;
+    padding-top: 2rem ;
+    padding-bottom: 2rem;
+}
+.row{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.h1CriarProd{
+    text-align: center;
+}
+.h1Categoria {
+    font-size: 2rem;
+    margin: 1.5rem;
+}
+
+.formCateg{
+    margin-left: 1.5rem;
+}
+.inputCateg{
+    height: 2.3rem;
+    border-radius: 8px;
+}
+.tabelaUsuario { 
+    padding-bottom : 10px;
+}
+.botaoSalvar {
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
